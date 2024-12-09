@@ -8,6 +8,7 @@ VS Code: The recommended editor for this project is Visual Studio Code version 1
 ## Getting Started
 First, run the development server:
 
+
 ```bash
 npm run dev
 # or
