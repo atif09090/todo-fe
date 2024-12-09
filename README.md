@@ -1,7 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
+
+# Prerequisites
+Node.js: Ensure that you have Node.js version 22 installed on your machine. You can download it from the Node.js official website.
+VS Code: The recommended editor for this project is Visual Studio Code version 1.86. Download it from the VS Code website.
+## Getting Started
 First, run the development server:
 
 ```bash
@@ -13,6 +17,24 @@ pnpm dev
 # or
 bun dev
 ```
+# Features
+## Radix UI Components:
+### Checkbox Dropdown Menu Label Popover Select Slot Toast
+## Styling:
+### Tailwind CSS for modern utility-first styling.tailwindcss-animate for animations.tailwind-merge for merging classes efficiently.
+## State Management:
+### class-variance-authority and clsx for managing and combining class names.
+# Date Handling:
+### date-fns for date formatting and manipulation.
+# Toast Notifications:
+### react-toastify for user-friendly toast notifications.
+# Themes:
+### next-themes for dark/light mode toggling.
+# Icons:
+### lucide-react for a wide variety of customizable icons.
+# Networking:
+### axios for HTTP requests.
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
