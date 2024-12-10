@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 # Prerequisites
-Node.js: Ensure that you have Node.js version 22 installed on your machine. You can download it from the Node.js official website.
+Node.js: Ensure that you have Node.js version 22 installed for FrontEnd and version 18.20.5 on your machine. You can download it from the Node.js official website.
 VS Code: The recommended editor for this project is Visual Studio Code version 1.86. Download it from the VS Code website.
 ## Getting Started
 First, run the development server:
